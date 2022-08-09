@@ -11,7 +11,7 @@
 
 - 📝 I regularly list NFTs on [https://opensea.io/BETXHES](https://opensea.io/BETXHES)
 
-- 📫 How to reach me **rohanacharjee07@gmail.con**
+- 📫 How to reach me **rohanacharjee07@gmail.com**
 
 - 📄 Know about my experiences [https://www.betxhes.tk/](https://www.betxhes.tk/)
 
