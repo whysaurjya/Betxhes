@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurjyadeep Acharjee</h1>
-<h3 align="center">A passionate graphic designer and web developer from India</h3>
+<h3 align="center">A passionate graphic designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betxhes&label=Profile%20views&color=0e75b6&style=flat" alt="betxhes" /> </p>
 
