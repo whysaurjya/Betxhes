@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Saurjya Acharya</h1>
 <h3 align="center">A Design Entrepreneur from India who loves to Design Visuals and Strategies which turn ideas to brands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whysaurjya&label=Profile%20views&color=0e75b6&style=flat" alt="whysaurjya" /> </p>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left"> <a href="https://twitter.com/whysaurjya" target="blank"><img src="https://img.shields.io/twitter/follow/whysaurjya?logo=twitter&style=for-the-badge" alt="whysaurjya" /></a> </p>
 
