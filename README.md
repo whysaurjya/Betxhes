@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://opengraph.b-cdn.net/production/images/25eefb78-41b4-44dc-85ec-ae7c4b120f0d.png?token=vUwUWIc9HRBsKl5W8EvLmwG35ehL2FyYvzR-_extG5U&height=630&width=1200&expires=33269817660)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saurjya Acharya</h1>
 <h3 align="center">A Design Entrepreneur from India who loves to Design Visuals and Strategies which turn ideas to brands</h3>
 img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
